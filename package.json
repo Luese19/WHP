@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "chatserver",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
